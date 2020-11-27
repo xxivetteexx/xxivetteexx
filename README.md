@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Ivette-01](https://user-images.githubusercontent.com/48102806/100457047-9a458200-30c1-11eb-821c-5793a993ae5e.jpg)
 
 <!--
