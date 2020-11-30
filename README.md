@@ -20,8 +20,7 @@ Hi, I'm Ivette a Graphic Designer and a Junior Front-End developer. I love to de
 
 
 <br />
-<br />
-<br />
+
 
 <hr>
 
@@ -31,7 +30,6 @@ Hi, I'm Ivette a Graphic Designer and a Junior Front-End developer. I love to de
 
 [linkedin]: https://www.linkedin.com/in/ivetteparejo/
 
-<br />
 <br />
 <!--
 **xxivetteexx/xxivetteexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
