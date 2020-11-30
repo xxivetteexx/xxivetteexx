@@ -1,6 +1,8 @@
 ![Ivette-01](https://user-images.githubusercontent.com/48102806/100457164-d37df200-30c1-11eb-889c-c41abc396bc8.jpg)
 
 <hr>
+Hi, I'm Ivette a Graphic Designer and a Junior Front-End developer. I love to design digital experiences, prototypes, code, build websites and web applications.
+<hr>
 
 ### Languages and Tools:
 
