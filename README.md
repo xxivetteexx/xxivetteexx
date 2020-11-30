@@ -18,6 +18,14 @@
 <br />
 <br />
 <br />
+
+
+### Contact me through my Social Netwok:
+[<img align="left" alt="ivettepa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ivetteparejo/
+<br />
+<br />
 <!--
 **xxivetteexx/xxivetteexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
