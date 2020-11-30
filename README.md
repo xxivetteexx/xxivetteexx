@@ -23,10 +23,14 @@ Hi, I'm Ivette a Graphic Designer and a Junior Front-End developer. I love to de
 
 ### How to reach me:
 [<img align="left" alt="ivettepa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/ivetteparejo/
 <br/>
+
 <hr>
 <h3> 💻Active Learning, 🤝Teamwork, 😄💻Problem Solving</h3>
+
+
 <!--
 **xxivetteexx/xxivetteexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
